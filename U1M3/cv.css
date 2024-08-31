@@ -1,0 +1,56 @@
+h1{
+    color:red;
+    background-color: blue;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+h2{
+    font-size: large;
+    color: brown;
+}
+
+h3{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif0;
+}
+
+h4{
+    color: green;
+
+}
+
+.destacados{
+    color: blueviolet;
+}
+
+
+#messi{
+width: auto;
+height: auto;
+padding: auto;
+}
+
+#caja{
+    background-color: orange;
+    width: 750px;
+    height: auto;
+    padding: 20px;
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+
+#Orígenes{
+
+    background-color: white;
+    width: auto;
+    height: auto;
+    padding: ;
+    border: 2px solid black;
+    box-sizing: border-box;   width: auto;    
+    height: auto;
+    padding: 10px;
+    border: 2px solid black;
+    box-sizing: border-box;
+
+}
